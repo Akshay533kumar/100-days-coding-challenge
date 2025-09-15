@@ -1,0 +1,31 @@
+Loan Status,,,,Loan Grade,,,,Loan Grade,,
+Row Labels,Sum of Loan Amount,Count of Loan ID,,Row Labels,Sum of Loan Amount,Count of Loan ID,,Row Labels,Sum of Loan Amount,Count of Loan Grade
+Charged Off,2112176,105,,A,5338618,250,,credit card,4212767,191
+Current,6467779,310,,B,4482846,206,,debt consolidation,3788403,187
+Fully Paid,11729795,541,,C,3235951,154,,home improvement,4371262,197
+In Grace Period,248118,11,,D,3264798,159,,other,4432165,211
+Late ,697676,33,,E,2320669,106,,small business,4450947,214
+Grand Total,21255544,1000,,F,1605848,81,,Grand Total,21255544,1000
+,,,,G,1006814,44,,,,
+,,,,Grand Total,21255544,1000,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Loan Grade,,,,Loan Grade,,,,,,
+Row Labels,Sum of Loan Amount,Count of Loan ID,,Row Labels,Sum of Loan Amount,,,,,
+Jan,2092739,90,,CA,2261248,,,,,
+Feb,1755960,81,,FL,1746490,,,,,
+Mar,1730459,88,,GA,2310129,,,,,
+Apr,2165874,93,,IL,2005298,,,,,
+May,1811797,97,,MI,2108219,,,,,
+Jun,1483335,73,,NC,2199731,,,,,
+Jul,1596365,78,,NY,1981495,,,,,
+Aug,1649022,80,,OH,2551617,,,,,
+Sep,1511440,68,,PA,2056686,,,,,
+Oct,1991319,90,,TX,2034631,,,,,
+Nov,1551289,76,,Grand Total,21255544,,,,,
+Dec,1915945,86,,,,,,,,
+Grand Total,21255544,1000,,,,,,,,
